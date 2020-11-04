@@ -27,15 +27,12 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 
-HOI    {}, MY NAME IS {} !
+HOI    {}, MY NAME IS MBBS_LOVER !
 
-I AM A GROUP MANAGER BOT MAINTAINED BY 
-
-[THIS LEGEND](tg://user?id={}).
+I AM A GROUP MANAGER BOT MAINTAINED BY [MBBS_LOVER](https://t.me/Mbbs_lover)
 
 HIT HELP FOR COMMANDS  /help
 
-For REPO CONTACT HELLBOY(@kraken_the_badass)
 
 """
 
