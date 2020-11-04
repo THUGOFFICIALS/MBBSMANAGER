@@ -9,8 +9,11 @@ GENERATED FROM [THIS REPOSITORY](https://github.com/THUGSOFFICIAL/THUGSTG)
 
 
 
-[![THUGS](https://telegra.ph/file/608ce9cfae5e01e8dbf9d.jpg)]
-
+<p align="center">
+    <a href="https://github.com/THUGSOFFICIAL/THUGSTG"><img src="https://telegra.ph/file/608ce9cfae5e01e8dbf9d.jpg" alt="TGBOT" width=400px></a>
+        <br>
+            <br>
+            </p>
 
 
 
